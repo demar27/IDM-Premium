@@ -1,10 +1,10 @@
 ### Internet Download Manager (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.
 
-## Installation process
+## **Installation process**
 
 - First Of All [Visit](https://www.internetdownloadmanager.com/) IDM Official Site & Download IDM.exe & Then Install It.
 
-- Then [Download]() This File.
+- Then [Download](IAS_0.7_CRC32_58F0EACC.txt) This File.
 
 - Open text file and Type "your name" [Demo](./Screenshot_NameChange.png)
 
@@ -33,4 +33,4 @@ You need always to keep IDM extensions installed and enabled in browsers to take
 
 ##Download selected files with one click
 
-When several links are selected with a mouse in a browser, IDM will show "Download with IDM" button. You can also minimize this button in "Options→General tab→Customize download panel in browsers" IDM dialog.
+When several links are selected with a mouse in a browser, IDM will show "Download with IDM" button. You can also minimize this button in "Options→General tab→Customize download panel in browsers" IDM dialog .
