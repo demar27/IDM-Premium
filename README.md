@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-- [Installation prosses](#installation-prosses)
+- [Installation process](#installation-process)
 - [Note](#note)
 - [Supported Browser](#all-popular-browsers-are-supported)
 - [Credits](#credits)
 - [licence](#license)
 
-# Installation prosses
+# Installation process
 
 - First Of All [Visit](https://www.internetdownloadmanager.com/) IDM Official Site & Download IDM.exe & Then Install It.
 
