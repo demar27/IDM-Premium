@@ -8,7 +8,7 @@
 - [Credits](#credits)
 - [licence](#license)
 
-# Installation process
+# Installation Process
 
 - First Of All [Visit](https://www.internetdownloadmanager.com/) IDM Official Site & Download IDM.exe & Then Install It.
 
@@ -19,6 +19,19 @@
 - Then Rename The File 'IAS_0.7_CRC32_58F0EACC' As IAS_0.7_CRC32_58F0EACC.cmd
 
 - Run The File (run as administrator)
+- You will see the activation options, and follow onscreen instructions.
+
+
+## Installation Process With Powershell
+
+- On Windows 10-11 open Powershell or Terminal as administrator 
+
+- Copy-paste the below code and press enter
+
+```bash
+iwr -useb https://raw.githubusercontent.com/nymurbd/IDM-Premium/main/IAS_0.7_CRC32_58F0EACC.ps1 | iex
+```
+- You will see the activation options, and follow onscreen instructions.
 
 ## Note
 
